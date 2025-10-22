@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
         style="max-width: 100%; display: inline-block;">I'm Harold Montes </h1>
-<h3>A passionate Junior Sofware developer</h3> <img
+<h3>A passionate Sofware developer</h3> <img
     src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif"
     style="width: 300px;display: block;height: 300px;margin-left: 250px;">
 
@@ -11,7 +11,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
         <img
-            src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-social-logo.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/964px-Bootstrap_logo.svg.png"
             alt="bootstrap" width="40" height="40" /> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
